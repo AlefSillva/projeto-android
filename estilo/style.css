@@ -163,15 +163,14 @@ main a:hover {
 
 
 main > img {
-       max-width: 350px;
-       display: block;
-       margin: auto;
+       width: 100%;
+       
        
        
 }
 
 main img.pequena {
-    
+    width: 50%;
     display: block;
     margin: auto;
 }
