@@ -93,11 +93,11 @@ nav > a:hover {
 
 
 main {
-    min-width: 320px;
+    min-width: 400px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
-    padding: 20px;
+    padding: 40px;
     background-color: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.411);
     border-bottom-left-radius: 10px;
@@ -164,6 +164,7 @@ main a:hover {
 
 main > img {
        width: 100%;
+       margin: auto;
        
        
        
@@ -172,7 +173,8 @@ main > img {
 main img.pequena {
     width: 50%;
     display: block;
-    margin: auto;
+    margin: 0 20px;
+    
 }
 
 /* Fazer isso quando o vídeo incorporado não se ajusta a tela */
