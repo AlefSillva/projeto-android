@@ -93,7 +93,7 @@ nav > a:hover {
 
 
 main {
-    min-width: 400px;
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
@@ -164,16 +164,13 @@ main a:hover {
 
 main > img {
        width: 100%;
-       margin: auto;
-       
-       
-       
+        
 }
 
 main img.pequena {
     width: 50%;
     display: block;
-    margin: 0 20px;
+    margin: auto;
     
 }
 
